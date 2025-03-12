@@ -29,4 +29,6 @@ This project analyzes global search trends using **Google Trends data** and visu
 - **Rising keyword:** **MS Copilot**.  
 - **Top keyword:** **MS Power BI**.  
 - **Search for ‘India Jobs’ is declining,** while the other four keywords (**Data Analyst, Power BI, Software Engineer, The Developer**) have been **increasing over the last 7 years**.  
-- **Total searches in the last 7 days:** **19K+**.  
+- **Total searches in the last 7 days:** **19K+**.
+
+**[Live Dashboard link] (https://app.powerbi.com/view?r=eyJrIjoiYmQ4MmY3YTYtMTJmYS00NTg5LTg0ODItYjQxMzE0Zjk5NmJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
