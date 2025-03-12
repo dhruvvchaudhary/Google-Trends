@@ -31,5 +31,10 @@ This project analyzes global search trends using **Google Trends data** and visu
 - **Search for ‘India Jobs’ is declining,** while the other four keywords (**Data Analyst, Power BI, Software Engineer, The Developer**) have been **increasing over the last 7 years**.  
 - **Total searches in the last 7 days:** **19K+**.
 
+## Future Enhancements
+- **Automate keyword updates using Power Automate.**
+- **Expand trend analysis to include regional breakdowns.**
+- **Enhance UI/UX with advanced visuals and interactive storytelling.**
+
 🚀 **Check out the Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYmQ4MmY3YTYtMTJmYS00NTg5LTg0ODItYjQxMzE0Zjk5NmJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
