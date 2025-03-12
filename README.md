@@ -1,7 +1,7 @@
 # Google Trends Analysis with Power BI  
 
 ## Project Overview  
-This project analyzes global search trends using **Google Trends data** and visualizes insights dynamically in **Power BI**. The analysis focuses on identifying **top and rising keywords** based on real-time search interest over the **last 7 days**.  
+This project analyzes global search trends using **Google Trends data** and visualizes insights dynamically in **Power BI**. The analysis also focuses on identifying **top and rising keywords** based on real-time search interest over the **last 7 days**.  
 
 ## Project Objectives  
 - Track worldwide trends for **user-specified keywords** using **SERP API**.  
